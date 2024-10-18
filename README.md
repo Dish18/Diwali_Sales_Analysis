@@ -22,7 +22,7 @@ Python , NumPy, Pandas, Seaborn, and Matplotlib
  Step 7: Geographical Insights
 
 ## Goal
-Analysing sale against Product Category, Sales, Region, Customer Age, Gender
+Analyzing sale against Product Category, Sales, Region, Customer Age, Gender
 
 ## Conclusion Based On Analysis
 
