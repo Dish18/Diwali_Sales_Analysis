@@ -7,8 +7,8 @@ This project highlights emphasize a strong focus on improving customer experienc
 Python , NumPy, Pandas, Seaborn, and Matplotlib
 
 ## Key competencies demonstrated
--- Performed data cleaning and manipulation
--- Performed exploratory data analysis using pandas,matplotlib and seaborn libraries
+- Performed data cleaning and manipulation
+- Performed exploratory data analysis using pandas,matplotlib and seaborn libraries
 -- Improved customer experirnce by identifying potential customers across different states, occupation,gender and age groups
 -- Improved sales by identifying most sales product categories and products,which can help to plan inventory and hence meet the demands
 
